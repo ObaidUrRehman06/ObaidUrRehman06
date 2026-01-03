@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Obaid Ur Rehman 👋
 
-<!--
-**ObaidUrRehman06/ObaidUrRehman06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master’s student in Wireless Communications Engineering (University of Oulu).
 
-Here are some ideas to get you started:
+### Focus areas
+- Wireless communication systems
+- Radio channels & propagation
+- Statistical signal processing
+- Optimization & numerical methods
+- Simulation-driven engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+MATLAB • Python (NumPy, SciPy) • Linux • Git • Basic C/C++
+
+📌 See pinned repositories below for my projects.
